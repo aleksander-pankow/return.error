@@ -11,9 +11,10 @@ I have rich experience in project management, internet marketing and promotion.
 
 ⚡️ My total experience in IT is over 10 years.
 
-## 🔗 Links
+## 🔗 Link
+[![iOS Projects](https://img.shields.io/badge/iOS-Swift%20Projects-yellow)](https://github.com/aleksander-pankow/NyaWeather)
 [![website portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.pankow.me/works/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksander-pankow/)https://github.com/aleksander-pankow/NyaWeather
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksander-pankow/)
 
 
 ## Funny moments
