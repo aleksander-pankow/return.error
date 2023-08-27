@@ -5,7 +5,7 @@ Thanks for visiting my GitHub profile, it's great to meet you here! 😊
 
 
 ## 🚀 About Me
-I'm a Website Developer and Begining iOS Mobile Application Developer Based in Warsaw. I have rich experience in website / e-commerce design and developing. In addition, I started developing applications for iOS.
+In the past two years, my focus has been on iOS development, where I have dedicated my efforts to becoming a proficient and versatile developer. Although my experience in this field has been predominantly non-commercial, I have consistently demonstrated a strong aptitude for iOS app development and a deep understanding of its principles.
 
 I have rich experience in project management, internet marketing and promotion.
 
